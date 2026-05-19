@@ -24,7 +24,7 @@ typedef struct {
     int         curiosity;
 } engineer_t;
 engineer_t me = {
-    .name      = "andreu",
+    .name      = "kokito",
     .role      = "Robotics Engineering Student",
     .stack     = { "C", "C++", "SystemVerilog", "Python", "Solder" },
     .curiosity = INT_MAX
